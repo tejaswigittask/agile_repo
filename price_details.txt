@@ -1,0 +1,4 @@
+wheel cost: 5000
+color cost: 1000
+seat cost: 5000
+numberplate cost: 200
